@@ -99,5 +99,21 @@ sh ./tools/dist_train.sh \
 Commands for other experiments are provided in [`./train.sh`](./train.sh).
 
 
+## Citation
+
+If you find this repository is helpful in your research, please consider citing our paper:
+```
+@article{zhao2022towards,
+  title={Towards a category-extended object detector with limited data},
+  author={Zhao, Bowen and Chen, Chen and Xiao, Xi and Xia, Shutao},
+  journal={Pattern Recognition},
+  volume={132},
+  pages={108943},
+  year={2022},
+  publisher={Elsevier}
+}
+```
+
+
 ## Acknowledgements
 This code is based on mmdetection [v2.0.0](https://github.com/open-mmlab/mmdetection/tree/v2.0.0) and mmcv [v0.5.9](https://github.com/open-mmlab/mmcv/tree/v0.5.9).
